@@ -30,7 +30,7 @@ Syntax
 -------
 The general syntax is:
 
-    <<item[:size]/[type],...>>
+    <<item[:size][/type],...>>
 
 Where item is one of:
 
